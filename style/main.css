@@ -11,7 +11,7 @@
 
 /*elementos base*/
 body{
-   background: url(/img/capa.jpg) linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%) ;
+   background: url('/img/capa.jpg') linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%) ;
    font-family: 'Arial', Times, serif;
    color:white;
 }
