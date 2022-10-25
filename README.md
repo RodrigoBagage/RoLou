@@ -5,4 +5,8 @@ O RoLouflix é uma recriação da interface da Netfllix com algumas fotos do meu
 
 Trata-se de um desafio de projeto proposto em um bootcamp que pariticipei da DIO.
 
+Ainda nesse projeto ao clicar em assista agora, o link vai direcionar para um videoclipe que eu criei e está no meu Instagram.
+
+Nele tem fotos e videos com momentos do casal e a canção *"Num bar"* também é de minha autoria.
+
 ♥Fiz uma adaptação com um toque de amor e carinho.♥
